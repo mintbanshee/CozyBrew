@@ -1,11 +1,14 @@
 # 🌿 Cozy Brew Timer
 
+  ```
    ( (
     ) )
   ........
   |      |]
   \      /
    `----'
+```
+
 
 
 Welcome to **Cozy Brew Timer**, a simple, console-based Java program designed to help you brew the perfect cup of tea. 🍵  
