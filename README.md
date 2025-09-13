@@ -10,7 +10,6 @@
 ```
 
 
-
 Welcome to **Cozy Brew Timer**, a simple, console-based Java program designed to help you brew the perfect cup of tea. 🍵  
 
 Whether you’re steeping a calming herbal blend or a bold black tea, Cozy Brew guides you through ideal steep times and water temperatures — all with a cozy vibe.
