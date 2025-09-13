@@ -31,28 +31,10 @@ Whether you’re steeping a calming herbal blend or a bold black tea, Cozy Brew 
 
 ---
 
-## 🫖 Example Usage
-Welcome to Cozy Brew! 🌙 What tea are you steeping today?
+## 🫖 Screenshot
 
-oolong
+<img width="619" height="602" alt="CozyBrew" src="https://github.com/user-attachments/assets/6e6d599d-f2c3-4e7f-b4e9-1f5cdfd4fb75" />
 
-Oolong → 4 min @ 90 °C. Steam curls like tiny dragons. 🐉🍵
-
-Would you like to brew another cup? (yes/no)
-
-yes
-
-What tea are you steeping today?
-
-herbal
-
-Herbal → 6 min @ 100 °C. Take a deep breath and relax. 🌿🍵
-
-Would you like to brew another cup? (yes/no)
-
-no
-
-Goodbye, cozy coder! 🌙
 
 ---
 
@@ -75,9 +57,9 @@ Goodbye, cozy coder! 🌙
 2. Navigate into the project folder:
       cd CozyBrew
 3. Compile the program:
-      javac src/Main.java
+      javac src/Brew.java
 4. Run the program:
-      java -cp src Main
+      java -cp src Brew
 
 ---
 
