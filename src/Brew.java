@@ -49,19 +49,19 @@ public class Brew {
   
     public static void main(String[] args) {
 
-        // Print the teacup to the console
-        System.out.println(); 
-        System.out.println("   ( (");
-        System.out.println("    ) )");
-        System.out.println("  ........");
-        System.out.println("  |      |]");
-        System.out.println("  \\      /");  // Double backslash prints one
-        System.out.println("   `----'");
-        System.out.println(); // Adds a blank line for spacing
+      // Teacup! 
+      System.out.println(); 
+      System.out.println("   ( (");
+      System.out.println("    ) )");
+      System.out.println("  ........");
+      System.out.println("  |      |]");
+      System.out.println("  \\      /");  
+      System.out.println("   `----'");
+      System.out.println(); 
 
-        // Print welcome message
-        System.out.println("Welcome to Cozy Brew!");
-        System.out.println();
+      // Print welcome message
+      System.out.println("Welcome to Cozy Brew!");
+      System.out.println();
 
 
       // first cup of tea 
